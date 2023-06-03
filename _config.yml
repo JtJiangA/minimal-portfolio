@@ -1,35 +1,28 @@
-title: <p align="center"> Giorgio Carbone </p>
+title: <p align="center"> Jiting Jiang </p>
 
 logo: "/images/picture.png?raw=true"
 
 description:
   <p align="center">
-  Milan, Italy
-  <br> (+39) 3406959794
-  <br> carbone.giorgio4@gmail.com
+  California, USA
+  <br> (+1) 8572728515
+  <br> jiting.jiang@outlook.com
   <br> <a href="pdf/Carbone_Giorgio_CV_eng.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/giorgiocarbone/">LinkedIn</a> |
-  <a href="https://github.com/giocoal">GitHub</a> 
-  <br> <a href="https://www.kaggle.com/giorgiocarbone">Kaggle</a> |
-  <a href="https://public.tableau.com/app/profile/giorgio.carbone3907">Tableau</a> |
-  <a href="https://medium.com/@giorgiocarbone">Medium</a> 
+  <a href="https://www.linkedin.com/in/jitingjiang/">LinkedIn</a> |
+  <a href="https://github.com/jitingjiang">GitHub</a>  
   </p>
   
   <p align="justify">
-  I am an aspiring <b>data scientist</b> who enjoys connecting the dots by the use of technology. 
+  I am a well-trained data scientist and applied economist who is passionate about leveraging real-world data and statistical methods to drive meaningful impact. 
   <br><br>
-  I am pursing <b>Master's Degree in Data Science at University of Milano-Bicocca</b>, where I’m receiving solid training in all the major fields of Data Science, like Statistics, Computer Science, Data Engineering, Machine Learning and more.
+  I have 7+ years of experience in data collection and analysis in human behavior research. I specialize in using statistical and causal inference methods, including experiments, to inform decisions on economic policy using large datasets. I have proficiency in Python, SQL, and Stata, as well as expertise in Causal Inference, Data Visualization and Machine Learning. 
   <br><br>
-  My hard science education (<b>Bachelor's Degree in Chemical Sciences and Technologies</b>), has allowed me to develop strong analytical, mathematical and statistical skills, which have proven useful in my current career path.
+  I am pursuing a doctorate degree in applied economics at University of California, Davis, where I receive solid training in Statistics, Econometrics, Machine Learning and more.
   <br><br>
-  I consider myself a kind, empathetic, creative and determined person. I am pragmatic and organized, yet flexible.
+  I also pride myself on being detail-oriented, self-motivated, and highly organized. I am currently seeking opportunities related to Data Science. 
   <br><br>
   </p>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-145578661-1 # Google Analytics tracking ID
-
-# I am particularly drawn to digital signal and image processing and analysis, as well as the latest ML topics, such as Computer Vision, NLP and Generative Models.
-#and in particular earning a bachelor's degree in Chemical Sciences and Technologies at University of Milano-Bicocca, which program included courses in mathematics, physics and chemistry (inorganic, organic, physical and analytical), 
-#Although I have an interest in the discipline of data science in its entirety,
 
