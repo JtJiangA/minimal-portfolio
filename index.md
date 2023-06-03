@@ -13,7 +13,7 @@ An End-to-End Machine Learning Project for Predicting Food Delivery Duration in 
 In this project, I am going to perform detailed data preprocessing on the food deliveries raw dataset provided by Doordash, then build classical machine learning models, including Linear Regression, cross-validated LASSO, and Random Forest to predict the food delivery durations using Python. 
 <br> <br>
 </div>
-<br>
+
 <center><img src="images/feature-importance.png"/></center>
 
 ---
@@ -27,7 +27,7 @@ An Causal Inference Project Using Machine Learning Augmented Regression Approach
 In this project, I estimate the causal effects of expanding access to Medicaid on the number of doctor visits using the cutting-edge machine learning augmented regression strategy, in addition to linear regression. As expected, I find the program statistically increases doctor visits later on at 1% level. Different models provide slightly different estimates.
 <br> <br>
 </div>
-<br>
+
 <center><img src="images/oregonhie.png"/></center>
 <br>
 
