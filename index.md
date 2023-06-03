@@ -12,6 +12,7 @@ In this project, I am going to perform detailed data preprocessing on the food d
 <br>
 <center><img src="images/HMDBcopertina.png"/></center>
 <br>
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/giocoal/hmdb51-two-stream-action-recognition)
 [![Open PDF](https://img.shields.io/badge/PDF-View%20Report%20Pdf-red?logo=adobe-acrobat-reader)](https://github.com/giocoal/hmdb51-two-stream-action-recognition/blob/main/Report/Deep%20Learning%20-%20Video%20Action%20Recognition.pdf)
 
