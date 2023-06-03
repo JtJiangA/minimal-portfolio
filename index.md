@@ -1,15 +1,16 @@
 # Portfolio
 ---
 
-## Deep Learning
+## Machine Learning
 
-### Video Classification: Human Action Recognition on HMDB-51 dataset
+### Predict Food Delivery Duration
+An End-to-End Machine Learning Project for Predicting Food Delivery Duration in Python.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/giocoal/hmdb51-two-stream-action-recognition)
 [![Open PDF](https://img.shields.io/badge/PDF-View%20Report%20Pdf-red?logo=adobe-acrobat-reader)](https://github.com/giocoal/hmdb51-two-stream-action-recognition/blob/main/Report/Deep%20Learning%20-%20Video%20Action%20Recognition.pdf)
 
 <div style="text-align: justify">
-<b>Two-stream CNNs</b> for video action recognition using Stacked Optical Flow, implemented in Keras, on HMDB-51 dataset.
+In this project, I am going to perform detailed data preprocessing on the food deliveries raw dataset provided by Doordash, then build classical machine learning models, including Linear Regression, cross-validated LASSO, and Random Forest to predict the food delivery durations using Python. 
 <br> <br>
 We use spatial (<b>ResNet-50 finetuned</b>) and temporal stream cnn (stacked <b>Optical Flows</b>) under the <b>Keras</b> framework to perform <b>Video-Based Human Action Recognition</b> on <b>HMDB-51</b> dataset.
 </div>
