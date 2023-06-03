@@ -12,7 +12,6 @@ An End-to-End Machine Learning Project for Predicting Food Delivery Duration in 
 <div style="text-align: justify">
 In this project, I am going to perform detailed data preprocessing on the food deliveries raw dataset provided by Doordash, then build classical machine learning models, including Linear Regression, cross-validated LASSO, and Random Forest to predict the food delivery durations using Python. 
 <br> <br>
-We use spatial (<b>ResNet-50 finetuned</b>) and temporal stream cnn (stacked <b>Optical Flows</b>) under the <b>Keras</b> framework to perform <b>Video-Based Human Action Recognition</b> on <b>HMDB-51</b> dataset.
 </div>
 <br>
 <center><img src="images/HMDBcopertina.png"/></center>
