@@ -13,27 +13,28 @@ An End-to-End Machine Learning Project for Predicting Food Delivery Duration in 
 In this project, I am going to perform detailed data preprocessing on the food deliveries raw dataset provided by Doordash, then build classical machine learning models, including Linear Regression, cross-validated LASSO, and Random Forest to predict the food delivery durations using Python. 
 <br> <br>
 </div>
+<br>
 <center><img src="images/feature-importance.png"/></center>
 
 ---
-### CXR-ACGAN: Auxiliary Classifier GAN for Chest X-Ray Images Generation
+### Estimate the Effects of Oregon Health Insurance Expansion on Doctor Visits
+An Causal Inference Project Using Machine Learning Augmented Regression Approach in Python
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/giocoal/CXR-ACGAN-chest-xray-generator-covid19-pneumonia)
 [![Open PDF](https://img.shields.io/badge/PDF-View%20Report%20Pdf-red?logo=adobe-acrobat-reader)](https://www.slideshare.net/Giorgio469575/cxracgan-auxiliary-classifier-gan-for-conditional-generation-of-chest-xray-images-pneumonia-covid19-and-healthy-patients-255905299)
 
 <div style="text-align: justify">
-<b>CXR-ACGAN</b>: Auxiliary Classifier GAN (AC-GAN) for <b>Chest X-Ray</b> (CXR) Images Generation (<b>Pneumonia, COVID-19 and healthy</b> patients) for the purpose of <b>data augmentation</b>. Implemented in TensorFlow, trained on COVIDx CXR-3 dataset.
+In this project, I estimate the causal effects of expanding access to Medicaid on the number of doctor visits using the cutting-edge machine learning augmented regression strategy, in addition to linear regression. As expected, I find the program statistically increases doctor visits later on at 1% level. Different models provide slightly different estimates.
 <br> <br>
-The main objective was to train an <b>Auxiliary Classifier GAN</b> (AC-GAN) to obtain a model for the <b>conditional synthesis</b> of chest radiographs of healthy patients, patients with COVID-19 and patients with non-COVID-19 pneumonia. Additionally, we used the trained GAN to perform <b>data augmentation on the unbalanced COVIDx dataset</b>, generatively balancing minority classes, and possibly improving the performance of some classifiers.
 </div>
 <br>
-<center><img src="images/CXR-ACGAN - Example.png"/></center>
+<center><img src="images/oregonhie.png"/></center>
 <br>
 
 ---
-## Machine Learning
+## Experiments
 
-### Credit Card Transactions Fraud Detection using KNIME.
+### ???
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/giocoal/Knime_Classification_Credit-Card-Fraud-Decection)
 [![KNIME Hub Workflow](https://img.shields.io/badge/KNIME-View%20on%20KNIME%20HUB-yellow?logo=Knime)](https://kni.me/w/c2_iSRBcc1v7b6pUn)
@@ -51,24 +52,9 @@ In the first part of the project, we compared different techniques to counter th
 <br>
 
 ---
-### Cluster Analysis on the Results of Molecular Simulation of the Water Adsorption Process on Atmospheric Particulate Models
+## Causal Inference
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/giocoal/Knime_Classification_Credit-Card-Fraud-Decection)
-[![Open PDF](https://img.shields.io/badge/PDF-Read%20Thesis%20Paper-red?logo=adobe-acrobat-reader)](https://github.com/giocoal/Cluster_analysis_Visualization_Computational_Chemistry/blob/223159ee1cbed45facdad444b1adbd9a03d60282/Tesi%20e%20presentazione/CarboneGiorgio_Tesi.pdf)
-
-<div style="text-align: justify">
-Data Analysis and Cluster Analysis of the results of <b>computational simulations of the water adsorption process</b> on atmospheric particulate matter models.
-<br>
-My work involved the development of a script in Python (NumPy, pandas, scikit-learn), capable of performing an automated (frame-by-frame) <b>data analysis of the configurations</b> (atomic coordinates of water molecules) generated during each simulation, conducted at a specific H2O pressure value.
-</div>
-<br>
-<center><img src="images/ComputationalChemistry.jpg"/></center>
-<br>
-
----
-## Natural Language Processing
-
-### Word Embedding (Word2Vec and CADE): the evolution of tópoi in the Italian literary tradition
+### ??
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/giocoal/word-embedding-italian-literature)
 [![Open PDF](https://img.shields.io/badge/PDF-View%20Report%20Pdf-red?logo=adobe-acrobat-reader)](https://github.com/giocoal/word-embedding-italian-literature/blob/main/Project%20Report%20EN.pdf)
@@ -89,85 +75,13 @@ The <b>goals</b> of our project were:
 <br>
 
 ---
-### Extreme Text Summarization and Topic Modeling over Reddit Posts
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/giocoal/reddit-tldr-summarizer-and-topic-modeling)
-[![Open PDF](https://img.shields.io/badge/PDF-View%20Report%20Pdf-red?logo=adobe-acrobat-reader)](https://www.slideshare.net/Giorgio469575/extreme-extractive-text-summarization-and-topic-modeling-using-lsa-and-lda-techniques-over-reddit-posts)
-
-<div style="text-align: justify">
-Extreme Extractive <b>Text Summarization</b> and <b>Topic Modeling</b> (using <b>LSA and LDA</b> techniques) over Reddit Posts from <b>TLDRHQ dataset</b>.
-<br> <br>
-TL;DR, which is an acronym for ”Too Long; Didn’t Read” and is an extremely short summary of the post’s content that is good practice for Reddit users to leave at the end of a post. A system, such as a bot, capable to automatically generate the TL;DR of a post could improve Reddit usability. This project develops a supervised extractive summarization model to obtain TL;DR-like summaries, and uses LSA and LDA techniques for topic modeling analysis to identify hidden topics in posts
-</div>
-<br>
-<center><img src="images/tldr.png"/></center>
-<br>
-
----
-## Time Series and Streaming Data 
-
-### Restaurant's Revenue Loss during first COVID-19 pandemic lockdown
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/giocoal/restaurant-revenue-loss-COVID-retrospective-analysis)
-[![Open PDF](https://img.shields.io/badge/PDF-View%20Report%20Pdf-red?logo=adobe-acrobat-reader)](https://github.com/giocoal/restaurant-revenue-loss-COVID-retrospective-analysis/blob/main/Project%20Report.pdf)
-
-<div style="text-align: justify">
-<b> Time Series </b> Analysis and <b> Forecasting </b> (using <b> ARIMA </b>, <b> UCM </b> and <b> Random Forest </b> models) of a <b> restaurant's revenue </b> during the first lockdown of the COVID-19 pandemic in Italy, to estimate the loss incurred..
-<br> <br>
-In this project we analyze the sales performance of six restaurants in Lombardy and Emilia-Romagna from 2018 to 2022. The study aims to identify patterns in the time series, estimate losses during the COVID-19 pandemic, and predict future restaurant trends, uses different models, including ARIMA & SARIMA, UCM, and Random Forest.
-</div>
-<br>
-<center><img src="images/data-lab.png"/></center>
-<br>
-
----
 ## Data Visualization
 
-### Air Quality Evolution in the Milan agglomeration: Data Analysis & Interactive Visualization
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/giocoal/Air_Pollution_Data_Visualization_Tableau)
-[![View on Tableau](https://img.shields.io/badge/Tableau-View_on_Tableau-orange?logo=Tableau)](https://public.tableau.com/app/profile/giorgio.carbone3907/viz/IndicediQualitdellAriaIQAnellagglomeratodiMilanoanalisidellandamentostagionaleeannualeCarboneCavallaroMarconziniScuri/Dashboard_HOME)
-[![Open PDF](https://img.shields.io/badge/PDF-Read%20Thesis%20Paper-red?logo=adobe-acrobat-reader)](https://github.com/giocoal/Air_Pollution_Data_Visualization_Tableau/blob/main/Report/CarboneCavallaroMarconziniScuri.pdf)
-
-<div style="text-align: justify">Has <b>air quality</b> improved over the past 15 years in and around <b>Milan</b>? Is the concentration of pollutants higher in winter or summer? and why? What are the main pollutants, and what meteorological and anthropogenic factors influence the seasonal pattern of their concentrations?
-<br>
-We tried to answer these, and other, questions by analyzing data from ARPA Lombardy. The results of our analysis were then displayed in an <b>interactive infographic</b> created using the <b>Tableau</b> platform.
-</div>
-<br>
-<center><img src="images/ARPAVIZ.gif"/></center>
-<br>
+### ??
 
 ---
-### Infographics: PROM score and the possible relationship with weather conditions
+## SQL
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/giocoal/Matplotlib_DataViz_SF12_PROMs_Score_)
-
-<div style="text-align: justify">
-<b>PROMs are patient-reported outcome</b> measures following an operation or health treatment, often used to assess the quality of health care.
-<br>
-We evaluated, through some <b>infographics</b> made through Python, using the <b>matplotlib</b> and <b>Seaborn</b> libraries, the possible presence of a <b>relationship</b> between the <b>outcomes of mental and physical health status assessments</b> of a sample of patients, following surgery, and the <b>weather conditions</b> (light, humidity and temperature) relative to the time of questionnaire completion.
-</div>
-<br>
-<center><img src="images/compitino_primaviz - Copy - Copya.png"/></center>
-<br>
-
----
-## Data Management
-
-### Data Acquisition and Modeling: Competitive Pokémon Graph Database
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/giocoal/Competitive-Pokemon-Graph-Database)
-[![View on Neo4j](https://img.shields.io/badge/Neo4J-View_on_Neo4J-lightgrey?logo=Neo4j)]()
-[![View on Kaggle](https://img.shields.io/badge/Kaggle-View_on_Kaggle-blue?logo=Kaggle)](https://www.kaggle.com/datasets/giorgiocarbone/complete-competitive-pokmon-datasets-may-2022)
-[![Open PDF](https://img.shields.io/badge/PDF-Read%20%20Paper-red?logo=adobe-acrobat-reader)](https://github.com/giocoal/Competitive-Pokemon-Graph-Database/blob/main/Project%20Report.pdf)
-
-<div style="text-align: justify">
-Data Acquisition and Modeling: <b>Graph database</b> containing information related to <b>competitive Pokémon videogames</b>, <b>scraped</b> from various sources
-<br> <br>
-The idea behind the project is to create a <b>graph database</b> containing information related to the <b>competitive Pokémon videogame</b>, with particular reference to the Video Game Championship Series 12 rules, the official format in effect for official tournaments and events during the period February - August 2022 and valid for the Pokémon World Championship in London in August 2022. The goal is to obtain a useful <b>tool as a support for competitive play</b>, both for novice and experienced players. The different <b>Pokémon are placed in relation to the teammates, moves, tools and the basic statistics with which they are most frequently matched</b> within teams in competitive matches. For this reason, the choice on the type of database to be implemented fell on a graph database, implemented through <b>Neo4J</b>. The choice of the graph database allowed us to take advantage of its characteristic of being schema less, which allows us to create nodes, to model the different entities, and arcs, to model the various relationships, without following a predefined schema. The database was populated through data obtained through <b>API</b> and <b>Web Scraping</b>, appropriately integrated and processed.
-</div>
-<br>
-<center><img src="images/PokemonCopertina1.png"/></center>
-<br>
+### ??
 
 <center>© 2022 Carbone Giorgio. Powered by Jekyll and the Minimal Theme.</center>
