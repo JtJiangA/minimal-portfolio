@@ -6,7 +6,7 @@
 ### Predict Food Delivery Duration with Linear Regression, LASSO, and Random Forest using Python
 An End-to-End Machine Learning Project for Predicting Food Delivery Duration in Python.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jitingjiang/predict-food-delivery-duration-with-lg-lasso-rf)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jitingjiang/predict-food-delivery-duration-with-lg-lasso-rf/blob/main/food-delivery-duration-prediction.ipynb)
 [![Open PDF](https://img.shields.io/badge/PDF-View%20Report%20Pdf-red?logo=adobe-acrobat-reader)](https://github.com/giocoal/hmdb51-two-stream-action-recognition/blob/main/Report/Deep%20Learning%20-%20Video%20Action%20Recognition.pdf)
 
 <div style="text-align: justify">
