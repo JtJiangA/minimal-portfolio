@@ -19,12 +19,12 @@ In this project, I am going to perform detailed data preprocessing on the food d
 ## Causal Inference and Machine Learning
 
 ### Estimate the Effects of Oregon Health Insurance Expansion on Doctor Visits
-An Causal Inference Project Using Machine Learning Augmented Regression Approach in Python
+An Causal Inference Project Using Machine Learning Augmented Regression Approach (PDS Lasso and DML) in Python
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jitingjiang/estimate-effects-ohie-docvisits/blob/main/causal-effects-oregon-health-insurance-expansion.ipynb)
 
 <div style="text-align: justify">
-In this project, I estimate the causal effects of expanding access to Medicaid on the number of doctor visits using the cutting-edge machine learning augmented regression strategy, in addition to linear regression. As expected, I find the program statistically increases doctor visits later on at 1% level. Different models provide slightly different estimates.
+In this project, I estimate the causal effects of expanding access to Medicaid on the number of doctor visits using the cutting-edge machine learning augmented regression strategy, Post-double Selection Lasso (PDS Lasso) and Double/Debiased Machine Learning (DML), in addition to linear regression. As expected, I find the program statistically increases doctor visits later on at 1% level. Different models provide slightly different estimates.
 <br> <br>
 </div>
 
