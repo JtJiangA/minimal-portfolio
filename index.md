@@ -44,4 +44,4 @@ In this project, to assess the heterogeneity, I build and interpret Random Causa
 <center><img src="images/rcf.png"/></center>
 <br>
 
-<center>© 2022 Carbone Giorgio. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2023 Jiting Jiang. Powered by Jekyll and the Minimal Theme.</center>
