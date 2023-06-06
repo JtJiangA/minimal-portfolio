@@ -50,8 +50,6 @@ In this project, to assess the heterogeneity, I build and interpret Random Causa
 ### ???
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/giocoal/Knime_Classification_Credit-Card-Fraud-Decection)
-[![KNIME Hub Workflow](https://img.shields.io/badge/KNIME-View%20on%20KNIME%20HUB-yellow?logo=Knime)](https://kni.me/w/c2_iSRBcc1v7b6pUn)
-[![Project Report](https://img.shields.io/badge/PDF-Project%20Report-red?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/giocoal/Knime_Classification_Credit-Card-Fraud-Decection/blob/main/Project_Report.pdf)
 
 <div style="text-align: justify">
 The project consists in the application of <b>different classification models</b> to a dataset containing data relating to credit card transactions for the <b>detection of financial fraud</b>.
@@ -70,7 +68,6 @@ In the first part of the project, we compared different techniques to counter th
 ### ??
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/giocoal/word-embedding-italian-literature)
-[![Open PDF](https://img.shields.io/badge/PDF-View%20Report%20Pdf-red?logo=adobe-acrobat-reader)](https://github.com/giocoal/word-embedding-italian-literature/blob/main/Project%20Report%20EN.pdf)
 
 <div style="text-align: justify">
 Using <b>distibuctional semantics</b> (<b>word2vec</b> family algorithms and the <b>CADE</b> framework) to learn <b>word embeddings</b> from the <b>Italian</b> literary corpuses we generated.
