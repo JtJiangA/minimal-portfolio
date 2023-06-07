@@ -32,9 +32,9 @@ In this project, I estimate the causal effects of expanding access to Medicaid o
 <br>
 
 ### Unveiling Heterogeneity: Exploring Treatment Effects with Random Causal Forest and EconML Python Libraries
-An Empirical Project Assessing the Heterogeneous Treatment Effects of A Randomized Control Trial using Advanced Machine Learning Methods in Python
+An Empirical Project Assessing the Heterogeneous Treatment Effects of A Randomized Control Trial using Advanced Machine Learning Methods
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jitingjiang/estimate-hte-rcf/blob/main/READII_Random%20Causal%20Forest_HTE_151617_fyear.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jitingjiang/estimate-hte-rcf/blob/main/READII_Random%20Causal%20Forest_HTE_151617_syear.ipynb)
 
 <div style="text-align: justify">
 In this project, to assess the heterogeneity, I build and interpret Random Causal Forest, a popular Machine Learning (ML) algorithm for Causal Inference, using the EconML Python libraries developed by Microsoft. Specifically, I first predict individual treatment effects based on the model. I then visualize the distribution of effects and assess the importance of various features. Lastly, I explore potential patterns of heterogeneity by analyzing the relationship between the most important features and the estimated treatment effects through scatterplots and linear regressions with interaction terms.
