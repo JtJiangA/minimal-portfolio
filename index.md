@@ -16,6 +16,22 @@ In this project, I am going to perform detailed data preprocessing on the food d
 <center><img src="images/feature-importance.png"/></center>
 
 ---
+
+## A/B Testing (Experimentation)
+
+### New Product Page and Conversion Rate
+A step-by-step analysis of an A/B test in Python from power analysis to hypothesis testing
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jitingjiang/abtest-conversion/blob/main/abtesting-conversion.ipynb)
+
+<div style="text-align: justify">
+This project utilizes an A/B test to determine whether the online e-commerce business should scale up a new version of the product page. Conversion rate is considered a good metric due to its measurability, sensitivity, and attributability. Four statistical tests, including the Two-sample T test, Two-sample proportion Z test, Chi-square test, and Bootstrapping, are employed. The results consistently suggest that one cannot reject the null hypothesis that the new page design does not affect the conversion rate.
+<br> <br>
+</div>
+
+<center><img src="images/feature-importance.png"/></center>
+
+---
 ## Causal Inference and Machine Learning
 
 ### Estimate the Effects of Oregon Health Insurance Expansion on Doctor Visits using PDS Lasso and DML
