@@ -29,7 +29,7 @@ This project utilizes an A/B test to determine whether the online e-commerce bus
 <br> <br>
 </div>
 
-<center><img src="images/feature-importance.png"/></center>
+<center><img src="images/abtest-conversion.png"/></center>
 
 ---
 ## Causal Inference and Machine Learning
