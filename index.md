@@ -17,16 +17,17 @@ In this project, I am going to perform detailed data preprocessing on the food d
 
 ---
 
-### Predict Price
-A Machine Learning Project ...
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jitingjiang/predict-food-delivery-duration-with-lg-lasso-rf/blob/main/food-delivery-duration-prediction.ipynb)
+### Predict Price with Gradient Descent Algorithm in Python
+A Machine Learning Project Using the Gradient Descent Algorithm with Practical Implementation Steps Discussed in Details.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jitingjiang/predict_price_gradient_descent/blob/main/predict_price.ipynb)
 
 <div style="text-align: justify">
-In this project, 
+In this project, I delve into the dataset to predict price using linear regression with gradient descent and ordinary least squares. I then go beyond utilizing existing packages by manually implementing the gradient descent algorithm as well as discuss the impact of feature scaling and learning rate selection on convergence rate and prediction performance. 
 <br> <br>
 </div>
 
-<center><img src="images/"/></center>
+<center><img src="images/learning_curve.png"/></center>
 
 ---
 
