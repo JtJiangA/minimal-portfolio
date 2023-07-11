@@ -17,6 +17,19 @@ In this project, I am going to perform detailed data preprocessing on the food d
 
 ---
 
+### Predict Price
+A Machine Learning Project ...
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jitingjiang/predict-food-delivery-duration-with-lg-lasso-rf/blob/main/food-delivery-duration-prediction.ipynb)
+
+<div style="text-align: justify">
+In this project, 
+<br> <br>
+</div>
+
+<center><img src="images/"/></center>
+
+---
+
 ## A/B Testing (Experimentation)
 
 ### New Product Page and Conversion Rate
