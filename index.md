@@ -3,6 +3,20 @@
 
 ## Machine Learning
 
+### Deep Learning for Customer Churn Prediction using Tensorflow in Python
+Three Neural Network Models with Different Complexity Levels Built and Evaluated 
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jitingjiang/predict-food-delivery-duration-with-lg-lasso-rf/blob/main/food-delivery-duration-prediction.ipynb)
+
+<div style="text-align: justify">
+The project demonstrates the practical application of deep learning (neural networks) using Tensorflow to predict customer churn in a real-world business scenario. The key aspects covered in this project include design, implementation, hyperparameter fine-tuning, model evaluation, and model selection.
+<br> <br>
+</div>
+
+<center><img src="images/feature-importance.png"/></center>
+
+---
+
 ### Predict Food Delivery Duration with Linear Regression, LASSO, and Random Forest using Python
 An End-to-End Machine Learning Project for Predicting Food Delivery Duration in Python.
 
