@@ -13,7 +13,7 @@ The project demonstrates the practical application of deep learning (neural netw
 <br> <br>
 </div>
 
-<center><img src="images/feature-importance.png"/></center>
+<center><img src="images/tuning_regularization.png"/></center>
 
 ---
 
